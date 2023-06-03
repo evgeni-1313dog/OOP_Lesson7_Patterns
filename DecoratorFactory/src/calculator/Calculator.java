@@ -5,6 +5,7 @@ public final class Calculator implements Calculable {
     private int primaryArg;
 
     public Calculator(int primaryArg) {
+
         this.primaryArg = primaryArg;
     }
 
